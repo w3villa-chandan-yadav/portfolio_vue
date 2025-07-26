@@ -451,21 +451,21 @@ export default {
       topSkills: ['Vue', 'TypeScript', 'Vite', 'GSAP', 'Accessibility', 'WebGL', 'CSS Art'],
       projects: [
         {
-          title: 'Nebula UI',
+          title: 'Inter at salesine',
           year: 2024,
           description: 'A design system powering fast, accessible products.',
           tags: ['Vue 3', 'Vite', 'Storybook'],
           href: 'https://example.com'
         },
         {
-          title: 'Sonic Maps',
+          title: 'Wordpress devoloper at pace***',
           year: 2023,
           description: 'Audio-reactive maps to explore cities by sound.',
           tags: ['WebAudio', 'Mapbox GL', 'Canvas'],
           href: 'https://example.com'
         },
         {
-          title: 'Fractal Playgrounds',
+          title: 'Inter Playgrounds',
           year: 2022,
           description: 'Procedural, interactive art playgrounds in the browser.',
           tags: ['WebGL', 'ShaderToy', 'GLSL'],
@@ -475,12 +475,12 @@ export default {
       timeline: [
         {
           when: '2024 — Now',
-          title: 'Senior Frontend Engineer @ Stellar',
+          title: 'SDE tranee @w3villa',
           summary: 'Leading the frontend platform, helping teams ship UI with confidence.'
         },
         {
-          when: '2021 — 2024',
-          title: 'Frontend Engineer @ Nimbus',
+          when: '2025 — 2025',
+          title: 'SDE tranee @w3villa',
           summary: 'Built internal tooling, design systems, and microfrontends.'
         },
         {
