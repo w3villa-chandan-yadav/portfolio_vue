@@ -124,9 +124,9 @@
         </form>
       </section>
 
-      <footer class="footer">
+      <!-- <footer class="footer">
         <span>© {{ new Date().getFullYear() }} {{ name }} — Built with Vue 3</span>
-      </footer>
+      </footer> -->
     </main>
 
     <!-- Emoji confetti layer -->
